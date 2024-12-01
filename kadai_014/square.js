@@ -1,5 +1,5 @@
 function square(num) {
-    return num * 10;
+    return num * num;
 }
 
 console.log(square(10));
